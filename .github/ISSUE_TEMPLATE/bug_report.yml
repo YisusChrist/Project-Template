@@ -49,7 +49,7 @@ body:
     validations:
       required: true
     attributes:
-      label: Urls organizer version
+      label: [YOUR PROJECT] version
       description: Run `[YOUR PROJECT] -v` to check.
       placeholder: "1.0"
   - type: textarea

@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Contributing to Urls organizer
+  - name: Contributing to [YOUR PROJECT]
     url: https://github.com/[YOUR NAME]/[YOUR PROJECT]/blob/main/CONTRIBUTING.md
     about: Guidelines for how to report an issue.
   - name: Support
